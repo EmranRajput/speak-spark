@@ -41,10 +41,10 @@
       <!-- Left: Address + Phone -->
       <div class="col-md-8 d-flex align-items-center">
         <span class="me-4 d-flex align-items-center text-white px-2">
-          <i class="bi bi-geo-alt-fill me-2 px-2"></i> Loss Angless US Block ABC
+          <i class="bi bi-geo-alt-fill me-2 px-2"></i> ABC Block Islamabad Pakistan
         </span>
         <span class="d-flex align-items-center text-white">
-          <i class="bi bi-telephone-fill me-2 px-2"></i> +62 123 456 789
+          <i class="bi bi-telephone-fill me-2 px-2"></i> +92 306 787 9298
         </span>
       </div>
 

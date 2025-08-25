@@ -12,7 +12,7 @@
             <div class="col-lg-3 responsive-column-half">
                 <div class="footer-item">
                     <a href="index.html">
-                        <img src="images/logo.png" alt="footer logo" class="footer__logo">
+                        <img src="{{ asset('frontend/images/speak-spark-logo.png') }}" alt="footer logo" style="width: 110px" class="footer__logo">
                     </a>
                     <ul class="generic-list-item pt-4">
                         <li><a href="tel:+1631237884">+163 123 7884</a></li>
